@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ssesmul-lab2.github.io/twostage/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ssesmul-lab2.github.io/twostage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ssesmul-lab2.github.io/twostage/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ssesmul-lab2.github.io/twostage/en/"/>
+    <image:image><image:loc>https://ssesmul-lab2.github.io/twostage/assets/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ssesmul-lab2.github.io/twostage/assets/og-ko.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ssesmul-lab2.github.io/twostage/en/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ssesmul-lab2.github.io/twostage/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ssesmul-lab2.github.io/twostage/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ssesmul-lab2.github.io/twostage/en/"/>
+    <image:image><image:loc>https://ssesmul-lab2.github.io/twostage/assets/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ssesmul-lab2.github.io/twostage/assets/og-en.jpg</image:loc></image:image>
+  </url>
+</urlset>
